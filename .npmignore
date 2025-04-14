@@ -7,4 +7,5 @@ tsconfig.json
 docs
 .github
 .vscode
+.idea
 TODOS
