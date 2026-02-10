@@ -16,7 +16,7 @@
 	"author":"Evan You",
 	"license":"MIT",
 	"publishConfig":{
-		"registry":"http://192.168.20.250/nexus/repository/NPM-lexmis/"
+		"registry":"http://localhost:8081/repository/npm-host/"
 	},
 	"bugs":{
 		"url":"https://github.com/vuejs/vue-loader/issues"
